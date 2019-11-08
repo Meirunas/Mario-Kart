@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="accel.xml"?>
+<results>
+   <result accel="3">
+      <name>Wario</name>
+      <name>Bowser</name>
+   </result>
+   <result accel="3.25">
+      <name>Rosalina</name>
+      <name>Metal mario</name>
+      <name>Waluigi</name>
+   </result>
+   <result accel="3.5">
+      <name>mario</name>
+      <name>Luigi</name>
+   </result>
+   <result accel="3.75">
+      <name>Peach</name>
+      <name>Tanooki mario</name>
+   </result>
+   <result accel="4">
+      <name>Baby Peach</name>
+      <name>Koopa Troopa</name>
+      <name>Toad</name>
+      <name>Cat Peach</name>
+   </result>
+   <result accel="4.25">
+      <name>Baby Rosalina</name>
+      <name>Baby mario</name>
+      <name>Toadette</name>
+   </result>
+</results>
